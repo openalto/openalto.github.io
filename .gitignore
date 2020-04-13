@@ -7,3 +7,6 @@ public/
 
 # MacOS
 .DS_Store
+
+# Temp
+__latexindent_temp.tex
