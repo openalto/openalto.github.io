@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>algebraic-expression enumeration | OpenALTO</title>
+    <title>algebraic-expression enumeration | CNA</title>
     <link>/tags/algebraic-expression-enumeration/</link>
       <atom:link href="/tags/algebraic-expression-enumeration/index.xml" rel="self" type="application/rss+xml" />
     <description>algebraic-expression enumeration</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>OpenALTO Group</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>algebraic-expression enumeration</title>

@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>J. Jensen Zhang | OpenALTO</title>
+    <title>J. (Jensen) Zhang | CNA</title>
     <link>/authors/j.-jensen-zhang/</link>
       <atom:link href="/authors/j.-jensen-zhang/index.xml" rel="self" type="application/rss+xml" />
-    <description>J. Jensen Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <description>J. (Jensen) Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>OpenALTO Group</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>J. Jensen Zhang</title>
+      <title>J. (Jensen) Zhang</title>
       <link>/authors/j.-jensen-zhang/</link>
     </image>
+    
+    <item>
+      <title>ALTO Extension: Path Vector</title>
+      <link>/publication/ietf-alto-path-vector-10/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ietf-alto-path-vector-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified Properties for the ALTO Protocol</title>
+      <link>/publication/ietf-alto-unified-props-new-11/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ietf-alto-unified-props-new-11/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Unicorn: Unified resource orchestration for multi-domain, geo-distributed data analytics</title>

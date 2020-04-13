@@ -1,16 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OpenALTO</title>
+    <title>CNA</title>
     <link>/authors/sabine-randriamasy/</link>
       <atom:link href="/authors/sabine-randriamasy/index.xml" rel="self" type="application/rss+xml" />
-    <description>OpenALTO</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <description>CNA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>OpenALTO Group</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>OpenALTO</title>
+      <title>CNA</title>
       <link>/authors/sabine-randriamasy/</link>
     </image>
+    
+    <item>
+      <title>ALTO Extension: Path Vector</title>
+      <link>/publication/ietf-alto-path-vector-10/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ietf-alto-path-vector-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ALTO Performance Cost Metrics</title>
+      <link>/publication/ietf-alto-performance-metrics-09/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ietf-alto-performance-metrics-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Cost Calendar</title>
+      <link>/publication/ietf-alto-cost-calendar-21/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ietf-alto-cost-calendar-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified Properties for the ALTO Protocol</title>
+      <link>/publication/ietf-alto-unified-props-new-11/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ietf-alto-unified-props-new-11/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Supporting Multi-Domain Use Cases with ALTO</title>

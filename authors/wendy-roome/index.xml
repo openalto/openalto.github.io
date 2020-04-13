@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OpenALTO</title>
+    <title>CNA</title>
     <link>/authors/wendy-roome/</link>
       <atom:link href="/authors/wendy-roome/index.xml" rel="self" type="application/rss+xml" />
-    <description>OpenALTO</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <description>CNA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>OpenALTO Group</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>OpenALTO</title>
+      <title>CNA</title>
       <link>/authors/wendy-roome/</link>
     </image>
+    
+    <item>
+      <title>ALTO Incremental Updates Using Server-Sent Events (SSE)</title>
+      <link>/publication/ietf-alto-incr-update-sse-22/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ietf-alto-incr-update-sse-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified Properties for the ALTO Protocol</title>
+      <link>/publication/ietf-alto-unified-props-new-11/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ietf-alto-unified-props-new-11/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-Cost Application-Layer Traffic Optimization (ALTO)</title>

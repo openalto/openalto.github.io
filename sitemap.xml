@@ -38,12 +38,12 @@
   </url>
   
   <url>
-    <loc>/authors/jingxuan-zhang/</loc>
+    <loc>/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/authors/jingxuan-zhang/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,7 +68,12 @@
   </url>
   
   <url>
-    <loc>/tags/internet/</loc>
+    <loc>/tags/exascale-data-science/</loc>
+    <lastmod>2020-04-13T13:32:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/multidomain/</loc>
     <lastmod>2020-04-13T13:32:17-04:00</lastmod>
   </url>
   
@@ -78,12 +83,12 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/project/multidomain-alto/</loc>
     <lastmod>2020-04-13T13:32:17-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/alto-internet/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-04-13T13:32:17-04:00</lastmod>
   </url>
   
@@ -98,18 +103,118 @@
   </url>
   
   <url>
-    <loc>/tags/exascale-data-science/</loc>
+    <loc>/tags/internet/</loc>
     <lastmod>2020-04-13T12:21:17-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/multidomain/</loc>
+    <loc>/project/alto-internet/</loc>
     <lastmod>2020-04-13T12:21:17-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/multidomain-alto/</loc>
-    <lastmod>2020-04-13T12:21:17-04:00</lastmod>
+    <loc>/authors/jan-seedorf/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/4/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ietf-alto-cdni-request-routing-alto-11/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/internet-draft/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jingxuan-jensen-zhang/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jon-peterson/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kevin-j.-ma/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nico-schwan/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sabine-randriamasy/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/wendy-roome/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ietf-alto-path-vector-10/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ietf-alto-incr-update-sse-22/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ietf-alto-performance-metrics-09/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ietf-alto-cost-calendar-21/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/deng-lingli/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dhruv-dhody/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-jensen-zhang/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/luis-m.-contreras/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/qin-wu/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ietf-alto-unified-props-new-11/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -129,11 +234,6 @@
   
   <url>
     <loc>/publication/rfc-8686/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -533,11 +633,6 @@
   </url>
   
   <url>
-    <loc>/authors/sabine-randriamasy/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/alto/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -554,16 +649,6 @@
   
   <url>
     <loc>/authors/haitao-yu/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/j.-jensen-zhang/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/luis-m.-contreras/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -683,16 +768,6 @@
   </url>
   
   <url>
-    <loc>/authors/nico-schwan/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/wendy-roome/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/rfc-8189/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -783,11 +858,6 @@
   </url>
   
   <url>
-    <loc>/authors/jan-seedorf/</loc>
-    <lastmod>2009-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/rfc-5693/</loc>
     <lastmod>2009-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -863,6 +933,10 @@
   
   <url>
     <loc>/authors/yanbin-liu/</loc>
+  </url>
+  
+  <url>
+    <loc>/people/</loc>
   </url>
   
   <url>

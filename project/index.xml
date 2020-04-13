@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | OpenALTO</title>
+    <title>Projects | CNA</title>
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Apr 2020 13:32:17 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>OpenALTO Group</copyright><lastBuildDate>Mon, 13 Apr 2020 13:32:17 -0400</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Projects</title>
@@ -13,15 +13,15 @@
     </image>
     
     <item>
-      <title>Traffic Optimization over Internet</title>
-      <link>/project/alto-internet/</link>
+      <title>Resource Discovery and Orchestration for Exascale Multidomain Data Sciences</title>
+      <link>/project/multidomain-alto/</link>
       <pubDate>Mon, 13 Apr 2020 13:32:17 -0400</pubDate>
-      <guid>/project/alto-internet/</guid>
+      <guid>/project/multidomain-alto/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Machine Learning for Data Science Network</title>
+      <title>Resource Discovery in Data Center Networks</title>
       <link>/project/netml/</link>
       <pubDate>Mon, 13 Apr 2020 12:45:45 -0400</pubDate>
       <guid>/project/netml/</guid>
@@ -29,10 +29,10 @@
     </item>
     
     <item>
-      <title>Resource Discovery and Orchestration for Exascale Multidomain Data Sciences</title>
-      <link>/project/multidomain-alto/</link>
+      <title>Traffic Optimization over Internet</title>
+      <link>/project/alto-internet/</link>
       <pubDate>Mon, 13 Apr 2020 12:21:17 -0400</pubDate>
-      <guid>/project/multidomain-alto/</guid>
+      <guid>/project/alto-internet/</guid>
       <description></description>
     </item>
     

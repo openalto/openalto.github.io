@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>network-aware adaptive applications | OpenALTO</title>
+    <title>network-aware adaptive applications | CNA</title>
     <link>/tags/network-aware-adaptive-applications/</link>
       <atom:link href="/tags/network-aware-adaptive-applications/index.xml" rel="self" type="application/rss+xml" />
     <description>network-aware adaptive applications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>OpenALTO Group</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>network-aware adaptive applications</title>

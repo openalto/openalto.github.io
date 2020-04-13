@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dhruv Dhody | CNA</title>
+    <link>/authors/dhruv-dhody/</link>
+      <atom:link href="/authors/dhruv-dhody/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dhruv Dhody</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>OpenALTO Group</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Dhruv Dhody</title>
+      <link>/authors/dhruv-dhody/</link>
+    </image>
+    
+    <item>
+      <title>ALTO Performance Cost Metrics</title>
+      <link>/publication/ietf-alto-performance-metrics-09/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ietf-alto-performance-metrics-09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>fine-grained network resource information | OpenALTO</title>
+    <title>fine-grained network resource information | CNA</title>
     <link>/tags/fine-grained-network-resource-information/</link>
       <atom:link href="/tags/fine-grained-network-resource-information/index.xml" rel="self" type="application/rss+xml" />
     <description>fine-grained network resource information</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>OpenALTO Group</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>fine-grained network resource information</title>

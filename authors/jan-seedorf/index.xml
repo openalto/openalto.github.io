@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OpenALTO</title>
+    <title>CNA</title>
     <link>/authors/jan-seedorf/</link>
       <atom:link href="/authors/jan-seedorf/index.xml" rel="self" type="application/rss+xml" />
-    <description>OpenALTO</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2009 00:00:00 +0000</lastBuildDate>
+    <description>CNA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>OpenALTO Group</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>OpenALTO</title>
+      <title>CNA</title>
       <link>/authors/jan-seedorf/</link>
     </image>
+    
+    <item>
+      <title>Content Delivery Network Interconnection (CDNI) Request Routing: CDNI Footprint and Capabilities Advertisement using ALTO</title>
+      <link>/publication/ietf-alto-cdni-request-routing-alto-11/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ietf-alto-cdni-request-routing-alto-11/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Application-Layer Traffic Optimization (ALTO) Problem Statement</title>

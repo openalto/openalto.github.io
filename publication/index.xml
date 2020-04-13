@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | OpenALTO</title>
+    <title>Publications | CNA</title>
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>OpenALTO Group</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
@@ -17,6 +17,54 @@
       <link>/publication/sdi-2020/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/publication/sdi-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content Delivery Network Interconnection (CDNI) Request Routing: CDNI Footprint and Capabilities Advertisement using ALTO</title>
+      <link>/publication/ietf-alto-cdni-request-routing-alto-11/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ietf-alto-cdni-request-routing-alto-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ALTO Extension: Path Vector</title>
+      <link>/publication/ietf-alto-path-vector-10/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ietf-alto-path-vector-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ALTO Incremental Updates Using Server-Sent Events (SSE)</title>
+      <link>/publication/ietf-alto-incr-update-sse-22/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ietf-alto-incr-update-sse-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ALTO Performance Cost Metrics</title>
+      <link>/publication/ietf-alto-performance-metrics-09/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ietf-alto-performance-metrics-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Cost Calendar</title>
+      <link>/publication/ietf-alto-cost-calendar-21/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ietf-alto-cost-calendar-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified Properties for the ALTO Protocol</title>
+      <link>/publication/ietf-alto-unified-props-new-11/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ietf-alto-unified-props-new-11/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jon Peterson | CNA</title>
+    <link>/authors/jon-peterson/</link>
+      <atom:link href="/authors/jon-peterson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jon Peterson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>OpenALTO Group</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jon Peterson</title>
+      <link>/authors/jon-peterson/</link>
+    </image>
+    
+    <item>
+      <title>Content Delivery Network Interconnection (CDNI) Request Routing: CDNI Footprint and Capabilities Advertisement using ALTO</title>
+      <link>/publication/ietf-alto-cdni-request-routing-alto-11/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ietf-alto-cdni-request-routing-alto-11/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
