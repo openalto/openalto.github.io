@@ -21,9 +21,25 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
+
+  [[content.filter_button]]
+    name = "Exascale Data Science"
+    tag = "exascale data science"
+
+  [[content.filter_button]]
+    name = "Multi-Domain"
+    tag = "multidomain"
+
+  [[content.filter_button]]
+    name = "Internet"
+    tag = "internet"
+
+  [[content.filter_button]]
+    name = "Machine Learning"
+    tag = "machine learning"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"

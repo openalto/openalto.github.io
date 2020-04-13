@@ -20,8 +20,20 @@
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  identifier = "publications"
   weight = 40
+
+[[main]]
+  name = "Featured Publications"
+  url = "#featured"
+  parent = "publications"
+  weight = 410
+
+[[main]]
+  name = "All Publications"
+  url = "/publication"
+  parent = "publications"
+  weight = 420
 
 [[main]]
   name = "Members"
@@ -30,7 +42,7 @@
 
 [[main]]
   name = "Demo"
-  url = "#"
+  url = "/demo"
   weight = 60
 
 [[main]]

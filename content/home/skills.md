@@ -17,19 +17,19 @@ subtitle = ""
 [[feature]]
   icon = "jsfiddle"
   icon_pack = "fab"
-  name = "CDN"
+  name = "Collaborative Science Network"
   description = "..."
   
 [[feature]]
   icon = "youtube"
   icon_pack = "fab"
-  name = "Video Streaming"
+  name = "Exascale Science Data Transmission"
   description = "..."  
   
 [[feature]]
   icon = "broadcast-tower"
   icon_pack = "fas"
-  name = "5G"
+  name = "Multidomain Networking Resource Orchestration"
   description = "..."
 
 +++

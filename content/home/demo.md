@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Application-Layer Traffic Optimization"
+title = "Collaborative Networks and Applications (CNA)"
 subtitle = ""
 
 [design]
@@ -50,4 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-The ALTO working group was established in 2008 to devise a request/response protocol for allowing a host to benefit from a server that is more cognizant of the network infrastructure than the host would be.
+We are working on co-design of networks and applications (CNA) to improve
+usability and performance for huge data networking use cases.
