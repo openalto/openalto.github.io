@@ -7,7 +7,8 @@ publication_types: ["1"]
 abstract: ""
 featured: true
 publication: "*Proceedings of the 15th International Conference on Emerging Networking Experiments And Technologies, CoNEXT 2019, Orlando, FL, USA, December 09-12, 2019*"
-url_pdf: "https://doi.org/10.1145/3359989.3365430"
+url_pdf: "/files/papers/flowdirector-conext19.pdf"
+url_slides: "/files/slides/flowdirector-conext19-slides.pdf"
 doi: "10.1145/3359989.3365430"
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

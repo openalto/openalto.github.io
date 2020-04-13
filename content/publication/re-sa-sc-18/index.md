@@ -8,6 +8,8 @@ abstract: "Multi-domain network resource reservation systems are being deployed,
 featured: false
 publication: "*SC18: International Conference for High Performance Computing, Networking, Storage and Analysis*"
 tags: ["algebra", "data privacy", "groupware", "natural sciences computing", "multidomain network resource abstraction", "collaborative data sciences", "multidomain network resource reservation systems", "Mercator", "fine-grained network resource information", "global network resource information", "collaborative sciences", "multidomain network resource discovery system", "algebraic-expression enumeration", "privacy concerns", "superset projection technique", "Bandwidth", "Servers", "Routing protocols", "Privacy", "Scalability", "Network topology", "Multi-domain networks", "resource discovery", "privacy preserving"]
+url_slides: "/files/slides/mercator-sc18-slides.pptx"
+url_pdf: "/files/papers/mercator-sc18.pdf"
 doi: "10.1109/SC.2018.00008"
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -8,6 +8,7 @@ abstract: "Multi-domain network resource reservation systems are being deployed,
 featured: false
 publication: "*IEEE Journal on Selected Areas in Communications*"
 tags: ["algebra", "computer network security", "data privacy", "natural sciences computing", "protocols", "resource allocation", "efficient multidomain network resource discovery", "multidomain network resource reservation systems", "global network resource information", "algebraic-expression enumeration", "privacy-preserving network resource discovery", "fine-grained network resource discovery", "Mercator", "collaborative sciences", "linear inequalities", "network resources", "obfuscating protocol", "superset projection technique", "small federation network", "Bandwidth", "Privacy", "Resource management", "Protocols", "Delays", "Network topology", "Collaboration", "Multi-domain networks", "resource discovery", "privacy preserving"]
+url_pdf: "/files/papers/mercator-jsac19.pdf"
 doi: "10.1109/JSAC.2019.2927073"
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -8,7 +8,8 @@ abstract: ""
 featured: true
 publication: "*Proceedings of the Applied Networking Research Workshop*"
 tags: ["ALTO", "multi-domain", "application-layer traffic optimization"]
-url_pdf: "https://doi.org/10.1145/3340301.3341126"
+url_slides: "/files/slides/alto-anrw19-slides.pdf"
+url_pdf: "/files/papers/alto-anrw19.pdf"
 doi: "10.1145/3340301.3341126"
 
 # Associated Projects (optional).

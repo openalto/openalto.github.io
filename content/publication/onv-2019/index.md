@@ -8,6 +8,7 @@ abstract: "Revealing an abstract view of the network is essential for the new pa
 featured: false
 publication: "*IEEE/ACM Transactions on Networking*"
 tags: ["data structures", "network servers", "software defined networking", "telecommunication network topology", "network-aware adaptive applications", "storage resources", "business values", "network-related variables", "application-layer objective functions", "optimal objectives", "on-demand network abstraction", "objective-driven network abstraction", "ONV models network", "real-world topologies", "commodity server", "on-demand equivalent network", "Measurement", "Network topology", "Topology", "Routing", "Quality of service", "Bandwidth", "IEEE transactions", "Software-defined networking", "routing algebra", "quality of service", "resource abstraction"]
+url_pdf: "/files/papers/nova-ton19.pdf"
 doi: "10.1109/TNET.2019.2899905"
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

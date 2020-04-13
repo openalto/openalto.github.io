@@ -7,7 +7,8 @@ publication_types: ["1"]
 abstract: ""
 featured: true
 publication: "*Proceedings of the ACM SIGCOMM 2008 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communications, Seattle, WA, USA, August 17-22, 2008*"
-url_pdf: "https://doi.org/10.1145/1402958.1402999"
+url_slides: "/files/slides/p4p-long.ppt"
+url_pdf: "/files/papers/p4p-sigcomm09.pdf"
 doi: "10.1145/1402958.1402999"
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
