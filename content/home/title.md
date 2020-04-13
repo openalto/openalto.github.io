@@ -50,5 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
-We are working on co-design of networks and applications (CNA) to improve
-usability and performance for huge data networking use cases.
+We focus on co-design of networks and applications (CNA) to improve
+the usability and performance for huge data networking use cases.
+
+Our participants are working on multiple protocol standards related to CNA in [IETF ALTO working
+group](https://datatracker.ietf.org/wg/alto/about/).

@@ -14,6 +14,6 @@ publication: "*2020 IEEE Conference on Computer Communications (INFOCOM)*"
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- netml
+- alto-internet
 ---
 

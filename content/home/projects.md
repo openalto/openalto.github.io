@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
+title = "Use Cases"
 subtitle = ""
 
 [content]
@@ -21,25 +21,25 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
+  # [[content.filter_button]]
+  #   name = "All"
+  #   tag = "*"
 
-  [[content.filter_button]]
-    name = "Exascale Data Science"
-    tag = "exascale data science"
+  # [[content.filter_button]]
+  #   name = "Exascale Data Science"
+  #   tag = "exascale data science"
 
-  [[content.filter_button]]
-    name = "Multi-Domain"
-    tag = "multidomain"
+  # [[content.filter_button]]
+  #   name = "Multi-Domain"
+  #   tag = "multidomain"
 
-  [[content.filter_button]]
-    name = "Internet"
-    tag = "internet"
+  # [[content.filter_button]]
+  #   name = "Internet"
+  #   tag = "internet"
 
-  [[content.filter_button]]
-    name = "Machine Learning"
-    tag = "machine learning"
+  # [[content.filter_button]]
+  #   name = "Machine Learning"
+  #   tag = "machine learning"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
@@ -51,7 +51,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List

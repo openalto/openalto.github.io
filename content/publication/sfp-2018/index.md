@@ -16,5 +16,6 @@ doi: "10.1145/3234200.3234207"
 #   Otherwise, set `projects: []`.
 projects:
 - multidomain-alto
+- alto-internet
 ---
 

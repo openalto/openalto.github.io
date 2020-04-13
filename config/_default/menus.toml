@@ -8,13 +8,13 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+# [[main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "Use Cases"
   url = "#projects"
   weight = 30
 
@@ -36,19 +36,29 @@
   weight = 420
 
 [[main]]
+  name = "IETF"
+  url = "#rfcs"
+  weight = 50
+
+[[main]]
   name = "Members"
   url = "#people"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Demo"
   url = "/demo"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 80
+
+[[main]]
+  name = "Subscribe"
+  url = "https://forms.gle/dUe2bd8zziQr5Zzf7"
+  weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

@@ -1,5 +1,6 @@
 ---
 title: "Application-Layer Traffic Optimization (ALTO) Problem Statement"
+subtitle: "*RFC 5693*"
 date: 2009-10-01
 publishDate: 2020-04-10T19:26:35.170216Z
 categories: ["rfc"]
@@ -11,6 +12,6 @@ publication: "*RFC Editor*"
 links:
 - name: RFC5693
   url: https://rfc-editor.org/rfc/rfc5693.txt
-url_pdf: "https://rfc-editor.org/rfc/rfc5693.txt"
+url_pdf: "https://www.rfc-editor.org/rfc/pdfrfc/rfc5693.txt.pdf"
 doi: "10.17487/RFC5693"
 ---

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Machine Learning for Data Science Network"
+title: "Resource Discovery in Data Center Networks"
 summary: ""
 authors: []
 tags:
