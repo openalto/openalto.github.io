@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/franck-le/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
@@ -23,12 +13,32 @@
   </url>
   
   <url>
-    <loc>/authors/jingxuan-zhang/</loc>
+    <loc>/authors/kai-gao/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/kai-gao/</loc>
+    <loc>/authors/qiao-xiang/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yeon-sup-lim/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jingxuan-zhang/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,22 +58,12 @@
   </url>
   
   <url>
-    <loc>/authors/qiao-xiang/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/sdi-2020/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/y.-richard-yang/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yeon-sup-lim/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,6 +113,16 @@
   </url>
   
   <url>
+    <loc>/authors/martin-stiemerling/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sebastian-kiesel/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/0/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
@@ -128,17 +138,7 @@
   </url>
   
   <url>
-    <loc>/authors/martin-stiemerling/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/rfc/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sebastian-kiesel/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -478,17 +478,7 @@
   </url>
   
   <url>
-    <loc>/tags/alto/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/anja-feldmann/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/application-layer-traffic-optimization/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -513,17 +503,7 @@
   </url>
   
   <url>
-    <loc>/authors/farni-boten/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/georgios-smaragdakis/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/haitao-yu/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -534,11 +514,6 @@
   
   <url>
     <loc>/authors/ingmar-poese/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/j.-jensen-zhang/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -558,17 +533,42 @@
   </url>
   
   <url>
+    <loc>/authors/sabine-randriamasy/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/alto/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/application-layer-traffic-optimization/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/farni-boten/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/haitao-yu/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-jensen-zhang/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/luis-m.-contreras/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/opt-box-2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sabine-randriamasy/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -663,6 +663,11 @@
   </url>
   
   <url>
+    <loc>/authors/john-macauley/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/chin-guok/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -673,18 +678,8 @@
   </url>
   
   <url>
-    <loc>/authors/john-macauley/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/sfp-2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/rfc-8189/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -694,6 +689,11 @@
   
   <url>
     <loc>/authors/wendy-roome/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rfc-8189/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -718,11 +718,6 @@
   </url>
   
   <url>
-    <loc>/publication/rfc-7971/</loc>
-    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/hans-seidel/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -738,8 +733,8 @@
   </url>
   
   <url>
-    <loc>/publication/rfc-7286/</loc>
-    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+    <loc>/publication/rfc-7971/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -748,8 +743,8 @@
   </url>
   
   <url>
-    <loc>/publication/rfc-7285/</loc>
-    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <loc>/publication/rfc-7286/</loc>
+    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -773,13 +768,13 @@
   </url>
   
   <url>
-    <loc>/publication/rfc-6708/</loc>
-    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+    <loc>/publication/rfc-7285/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/rfc-5693/</loc>
-    <lastmod>2009-10-01T00:00:00+00:00</lastmod>
+    <loc>/publication/rfc-6708/</loc>
+    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -789,6 +784,11 @@
   
   <url>
     <loc>/authors/jan-seedorf/</loc>
+    <lastmod>2009-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rfc-5693/</loc>
     <lastmod>2009-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -819,6 +819,50 @@
   
   <url>
     <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/chin-gouk/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/dennis-yu/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/farni-weaver/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/jace-liu/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/jensen-zhang/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/luis-contreras/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/lyle-bertz/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/richard-yang/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/tony-wang/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/vijay-gurbani/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/yanbin-liu/</loc>
   </url>
   
   <url>

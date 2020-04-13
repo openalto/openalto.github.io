@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yeon-sup Lim | OpenALTO</title>
+    <title>OpenALTO</title>
     <link>/authors/yeon-sup-lim/</link>
       <atom:link href="/authors/yeon-sup-lim/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yeon-sup Lim</description>
+    <description>OpenALTO</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Yeon-sup Lim</title>
+      <title>OpenALTO</title>
       <link>/authors/yeon-sup-lim/</link>
     </image>
     
