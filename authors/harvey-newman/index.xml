@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harvey Newman | OpenALTO</title>
+    <link>/authors/harvey-newman/</link>
+      <atom:link href="/authors/harvey-newman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Harvey Newman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Harvey Newman</title>
+      <link>/authors/harvey-newman/</link>
+    </image>
+    
+    <item>
+      <title>Unicorn: Unified resource orchestration for multi-domain, geo-distributed data analytics</title>
+      <link>/publication/unicorn-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/unicorn-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-Grained, Multi-Domain Network Resource Abstraction as a Fundamental Primitive to Enable High-Performance, Collaborative Data Sciences</title>
+      <link>/publication/re-sa-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/re-sa-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SFP: Toward Interdomain Routing for SDN Networks</title>
+      <link>/publication/sfp-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sfp-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

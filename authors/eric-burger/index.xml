@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric Burger | OpenALTO</title>
+    <link>/authors/eric-burger/</link>
+      <atom:link href="/authors/eric-burger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eric Burger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Eric Burger</title>
+      <link>/authors/eric-burger/</link>
+    </image>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Problem Statement</title>
+      <link>/publication/rfc-5693/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-5693/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

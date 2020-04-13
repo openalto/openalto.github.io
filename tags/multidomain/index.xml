@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multidomain | OpenALTO</title>
+    <link>/tags/multidomain/</link>
+      <atom:link href="/tags/multidomain/index.xml" rel="self" type="application/rss+xml" />
+    <description>multidomain</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Apr 2020 12:21:17 -0400</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>multidomain</title>
+      <link>/tags/multidomain/</link>
+    </image>
+    
+    <item>
+      <title>Resource Discovery and Orchestration for Exascale Multidomain Data Sciences</title>
+      <link>/project/multidomain-alto/</link>
+      <pubDate>Mon, 13 Apr 2020 12:21:17 -0400</pubDate>
+      <guid>/project/multidomain-alto/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

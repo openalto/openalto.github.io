@@ -3,19 +3,826 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/authors/franck-le/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/geng-li/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jingxuan-zhang/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kai-gao/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/qiao-xiang/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/sdi-2020/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/y.-richard-yang/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yeon-sup-lim/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/internet/</loc>
+    <lastmod>2020-04-13T13:32:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-04-13T13:32:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-04-13T13:32:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/alto-internet/</loc>
+    <lastmod>2020-04-13T13:32:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2020-04-13T12:45:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/netml/</loc>
+    <lastmod>2020-04-13T12:45:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/exascale-data-science/</loc>
+    <lastmod>2020-04-13T12:21:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/multidomain/</loc>
+    <lastmod>2020-04-13T12:21:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/multidomain-alto/</loc>
+    <lastmod>2020-04-13T12:21:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/0/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rfc-8686/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/martin-stiemerling/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/rfc/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sebastian-kiesel/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/algebra/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/algebraic-expression-enumeration/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bandwidth/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/c.-guok/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/collaboration/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/collaborative-sciences/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/computer-network-security/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/data-privacy/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/delays/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/efficient-multidomain-network-resource-discovery/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/f.-le/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/fine-grained-network-resource-discovery/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/global-network-resource-information/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/h.-newman/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-j.-zhang/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-macauley/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/linear-inequalities/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mercator/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/multi-domain/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/multi-domain-networks/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/multidomain-network-resource-reservation-systems/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/natural-sciences-computing/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/network-resources/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/network-topology/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/obfuscating-protocol/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/privacy/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/privacy-preserving/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/privacy-preserving-network-resource-discovery/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/protocols/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/q.-xiang/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/resource-allocation/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/resource-discovery/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/resource-management/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/small-federation-network/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/superset-projection-technique/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/mercator-jsac-19/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/x.-t.-wang/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/y.-j.-liu/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/y.-r.-yang/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/onv-2019/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/application-layer-objective-functions/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/business-values/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/commodity-server/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/data-structures/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ieee-transactions/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-bi/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/k.-gao/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/measurement/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/network-servers/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/network-aware-adaptive-applications/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/network-related-variables/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/objective-driven-network-abstraction/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/on-demand-equivalent-network/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/on-demand-network-abstraction/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/onv-models-network/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/optimal-objectives/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/quality-of-service/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/real-world-topologies/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/resource-abstraction/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/routing/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/routing-algebra/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/software-defined-networking/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/storage-resources/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/telecommunication-network-topology/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/topology/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/x.-wang/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/alto/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/anja-feldmann/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/application-layer-traffic-optimization/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/borje-ohlman/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/christian-rothenberg/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/danny-lachos/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/enric-pujol/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/farni-boten/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/georgios-smaragdakis/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/haitao-yu/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/harvey-newman/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ingmar-poese/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-jensen-zhang/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/james-aspnes/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/johannes-zerwas/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/linghe-kong/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/luis-m.-contreras/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/opt-box-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sabine-randriamasy/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/flow-director-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/alto-anrw-19/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/unicorn-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/x.-tony-wang/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/y.-jace-liu/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yang-richard-yang/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/collaborative-data-sciences/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/fine-grained-network-resource-information/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/re-sa-sc-19/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/groupware/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/multidomain-network-resource-abstraction/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/multidomain-network-resource-discovery-system/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/privacy-concerns/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/routing-protocols/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/scalability/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/servers/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jun-bi/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/prophet-2018/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/chin-guok/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/re-sa-2018/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/john-macauley/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/sfp-2018/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rfc-8189/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nico-schwan/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/wendy-roome/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/nova-2017/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/xin-wang/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/chen-gu/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/orsap-2016/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rfc-7971/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/hans-seidel/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-scharf/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/stefano-previdi/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rfc-7286/</loc>
+    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/haibin-song/</loc>
+    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rfc-7285/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/reinaldo-penno/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/richard-alimi/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/richard-woundy/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/stanislav-shalunov/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rfc-6708/</loc>
+    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rfc-5693/</loc>
+    <lastmod>2009-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/eric-burger/</loc>
+    <lastmod>2009-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jan-seedorf/</loc>
+    <lastmod>2009-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/abraham-silberschatz/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/arvind-krishnamurthy/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/haiyong-xie/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/p-4-p-2008/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yanbin-grace-liu/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/demo/</loc>
   </url>
   
   <url>
@@ -23,19 +830,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-  </url>
-  
-  <url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johannes Zerwas | OpenALTO</title>
+    <link>/authors/johannes-zerwas/</link>
+      <atom:link href="/authors/johannes-zerwas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Johannes Zerwas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Johannes Zerwas</title>
+      <link>/authors/johannes-zerwas/</link>
+    </image>
+    
+    <item>
+      <title>Steering hyper-giants&#39; traffic at scale</title>
+      <link>/publication/flow-director-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/flow-director-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

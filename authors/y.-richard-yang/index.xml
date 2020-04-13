@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y. Richard Yang | OpenALTO</title>
+    <link>/authors/y.-richard-yang/</link>
+      <atom:link href="/authors/y.-richard-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y. Richard Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Y. Richard Yang</title>
+      <link>/authors/y.-richard-yang/</link>
+    </image>
+    
+    <item>
+      <title>Toward Optimal Software-Defined Interdomain Routing</title>
+      <link>/publication/sdi-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sdi-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Multi-Domain Use Cases with ALTO</title>
+      <link>/publication/alto-anrw-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/alto-anrw-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unicorn: Unified resource orchestration for multi-domain, geo-distributed data analytics</title>
+      <link>/publication/unicorn-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/unicorn-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prophet: Fast Accurate Model-based Throughput Prediction for Reactive Flow in DC Networks</title>
+      <link>/publication/prophet-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/prophet-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-Grained, Multi-Domain Network Resource Abstraction as a Fundamental Primitive to Enable High-Performance, Collaborative Data Sciences</title>
+      <link>/publication/re-sa-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/re-sa-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SFP: Toward Interdomain Routing for SDN Networks</title>
+      <link>/publication/sfp-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sfp-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ORSAP: Abstracting routing state on demand</title>
+      <link>/publication/orsap-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/orsap-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Protocol</title>
+      <link>/publication/rfc-7285/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-7285/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Requirements</title>
+      <link>/publication/rfc-6708/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-6708/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

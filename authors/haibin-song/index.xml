@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haibin Song | OpenALTO</title>
+    <link>/authors/haibin-song/</link>
+      <atom:link href="/authors/haibin-song/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haibin Song</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Haibin Song</title>
+      <link>/authors/haibin-song/</link>
+    </image>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Server Discovery</title>
+      <link>/publication/rfc-7286/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-7286/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

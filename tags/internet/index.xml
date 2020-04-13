@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>internet | OpenALTO</title>
+    <link>/tags/internet/</link>
+      <atom:link href="/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <description>internet</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Apr 2020 13:32:17 -0400</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>internet</title>
+      <link>/tags/internet/</link>
+    </image>
+    
+    <item>
+      <title>Traffic Optimization over Internet</title>
+      <link>/project/alto-internet/</link>
+      <pubDate>Mon, 13 Apr 2020 13:32:17 -0400</pubDate>
+      <guid>/project/alto-internet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

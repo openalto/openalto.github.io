@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jingxuan Zhang | OpenALTO</title>
+    <link>/authors/jingxuan-zhang/</link>
+      <atom:link href="/authors/jingxuan-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jingxuan Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jingxuan Zhang</title>
+      <link>/authors/jingxuan-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Toward Optimal Software-Defined Interdomain Routing</title>
+      <link>/publication/sdi-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sdi-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prophet: Fast Accurate Model-based Throughput Prediction for Reactive Flow in DC Networks</title>
+      <link>/publication/prophet-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/prophet-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

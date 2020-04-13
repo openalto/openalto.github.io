@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hans Seidel | OpenALTO</title>
+    <link>/authors/hans-seidel/</link>
+      <atom:link href="/authors/hans-seidel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hans Seidel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Hans Seidel</title>
+      <link>/authors/hans-seidel/</link>
+    </image>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Deployment Considerations</title>
+      <link>/publication/rfc-7971/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-7971/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

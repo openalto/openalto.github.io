@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sebastian Kiesel | OpenALTO</title>
+    <link>/authors/sebastian-kiesel/</link>
+      <atom:link href="/authors/sebastian-kiesel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sebastian Kiesel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Sebastian Kiesel</title>
+      <link>/authors/sebastian-kiesel/</link>
+    </image>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Cross-Domain Server Discovery</title>
+      <link>/publication/rfc-8686/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-8686/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Deployment Considerations</title>
+      <link>/publication/rfc-7971/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-7971/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Server Discovery</title>
+      <link>/publication/rfc-7286/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-7286/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Protocol</title>
+      <link>/publication/rfc-7285/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-7285/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Requirements</title>
+      <link>/publication/rfc-6708/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-6708/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

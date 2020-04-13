@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | OpenALTO</title>
+    <link>/publication_types/0/</link>
+      <atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>0</title>
+      <link>/publication_types/0/</link>
+    </image>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Cross-Domain Server Discovery</title>
+      <link>/publication/rfc-8686/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-8686/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Cost Application-Layer Traffic Optimization (ALTO)</title>
+      <link>/publication/rfc-8189/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-8189/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Deployment Considerations</title>
+      <link>/publication/rfc-7971/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-7971/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Server Discovery</title>
+      <link>/publication/rfc-7286/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-7286/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Protocol</title>
+      <link>/publication/rfc-7285/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-7285/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Requirements</title>
+      <link>/publication/rfc-6708/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-6708/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Problem Statement</title>
+      <link>/publication/rfc-5693/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-5693/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

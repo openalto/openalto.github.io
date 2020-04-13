@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jun Bi | OpenALTO</title>
+    <link>/authors/jun-bi/</link>
+      <atom:link href="/authors/jun-bi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jun Bi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jun Bi</title>
+      <link>/authors/jun-bi/</link>
+    </image>
+    
+    <item>
+      <title>Prophet: Fast Accurate Model-based Throughput Prediction for Reactive Flow in DC Networks</title>
+      <link>/publication/prophet-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/prophet-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NOVA: Towards on-demand equivalent network view abstraction for network optimization</title>
+      <link>/publication/nova-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/nova-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ORSAP: Abstracting routing state on demand</title>
+      <link>/publication/orsap-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/orsap-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

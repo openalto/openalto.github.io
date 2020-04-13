@@ -5,12 +5,180 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Toward Optimal Software-Defined Interdomain Routing</title>
+      <link>/publication/sdi-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sdi-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Cross-Domain Server Discovery</title>
+      <link>/publication/rfc-8686/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-8686/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Fine-Grained, Privacy-Preserving, Efficient Multi-Domain Network Resource Discovery</title>
+      <link>/publication/mercator-jsac-19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mercator-jsac-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Objective-Driven On-Demand Network Abstraction for Adaptive Applications</title>
+      <link>/publication/onv-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/onv-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing in the Dark: Learning an Optimal Solution through a Simple Request Interface</title>
+      <link>/publication/opt-box-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/opt-box-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steering hyper-giants&#39; traffic at scale</title>
+      <link>/publication/flow-director-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/flow-director-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Multi-Domain Use Cases with ALTO</title>
+      <link>/publication/alto-anrw-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/alto-anrw-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unicorn: Unified resource orchestration for multi-domain, geo-distributed data analytics</title>
+      <link>/publication/unicorn-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/unicorn-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-Grained, Multi-Domain Network Resource Abstraction as a Fundamental Primitive to Enable High-Performance, Collaborative Data Sciences</title>
+      <link>/publication/re-sa-sc-19/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/re-sa-sc-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prophet: Fast Accurate Model-based Throughput Prediction for Reactive Flow in DC Networks</title>
+      <link>/publication/prophet-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/prophet-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-Grained, Multi-Domain Network Resource Abstraction as a Fundamental Primitive to Enable High-Performance, Collaborative Data Sciences</title>
+      <link>/publication/re-sa-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/re-sa-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SFP: Toward Interdomain Routing for SDN Networks</title>
+      <link>/publication/sfp-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sfp-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Cost Application-Layer Traffic Optimization (ALTO)</title>
+      <link>/publication/rfc-8189/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-8189/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NOVA: Towards on-demand equivalent network view abstraction for network optimization</title>
+      <link>/publication/nova-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/nova-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ORSAP: Abstracting routing state on demand</title>
+      <link>/publication/orsap-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/orsap-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Deployment Considerations</title>
+      <link>/publication/rfc-7971/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-7971/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Server Discovery</title>
+      <link>/publication/rfc-7286/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-7286/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Protocol</title>
+      <link>/publication/rfc-7285/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-7285/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Requirements</title>
+      <link>/publication/rfc-6708/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-6708/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-Layer Traffic Optimization (ALTO) Problem Statement</title>
+      <link>/publication/rfc-5693/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/rfc-5693/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P4p: provider portal for applications</title>
+      <link>/publication/p-4-p-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/p-4-p-2008/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
