@@ -2,7 +2,7 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Use Cases"
@@ -17,19 +17,19 @@ subtitle = ""
 [[feature]]
   icon = "jsfiddle"
   icon_pack = "fab"
-  name = "CDN"
+  name = "Collaborative Science Network"
   description = "..."
   
 [[feature]]
   icon = "youtube"
   icon_pack = "fab"
-  name = "Video Streaming"
+  name = "Exascale Science Data Transmission"
   description = "..."  
   
 [[feature]]
   icon = "broadcast-tower"
   icon_pack = "fas"
-  name = "5G"
+  name = "Multidomain Networking Resource Orchestration"
   description = "..."
 
 +++
