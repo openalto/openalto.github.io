@@ -1,5 +1,6 @@
 ---
 title: "Application-Layer Traffic Optimization (ALTO) Server Discovery"
+subtitle: "*RFC 7286*"
 date: 2014-11-01
 publishDate: 2020-04-10T19:26:35.173207Z
 categories: ["rfc"]
